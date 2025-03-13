@@ -1,0 +1,4 @@
+cabeza
+piernas
+nariz
+bigote
